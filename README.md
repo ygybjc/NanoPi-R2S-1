@@ -1,6 +1,4 @@
-
-##0210403 bjc
-# 使用 Github Actions 在线编译 NanoPi-R2S 固件
+# 使用 Github Actions 在线编译 NanoPi-R2S 固件##0210403 bjc
 
 * NanoPi R2S CNC 官方金属壳版 购买链接: [https://s.click.taobao.com/ZPSFRyu](https://s.click.taobao.com/ZPSFRyu) 
 * 推荐朗科 32G TF 卡 ￥17.90 购买链接: [https://u.jd.com/wDywo8y](https://u.jd.com/wDywo8y)
